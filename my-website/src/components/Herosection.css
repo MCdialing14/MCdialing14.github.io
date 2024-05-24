@@ -1,21 +1,16 @@
 .hero-wrapper {
     text-align: center;
     background-color: black;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
 }
 
 .hero-p {
-    margin-top: 15px;
+    margin-top: 25px;
 }
 
 p {
     font-size: 25px;
     color: white;
-}
-
-img {
-    margin-top: 30px;
-    border-radius: 45%;
 }
 
 .expand-on-hover {

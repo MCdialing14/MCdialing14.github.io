@@ -3,13 +3,16 @@
 }
 
 .navbar {
-  background-color: #333;
+  background-color: #615f5f;
   color: white;
   display: flex;
   justify-content: space-between;
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
+  position: fixed;
+  top: 0; 
+  width: 100%; 
 }
 
 .Site-title {
