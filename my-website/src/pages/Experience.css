@@ -1,0 +1,35 @@
+.Experience{
+    background-color: rgba(2, 54, 93, 0.444);
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+.expTitle {
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.expList {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+}
+
+.projectNode {
+    color: white;
+    height: 200px;
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.textSection {
+    margin-left: 15px;
+}
+
+.certificate{
+    text-align: center;
+}

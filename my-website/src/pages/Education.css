@@ -1,0 +1,16 @@
+.Education{
+    background-color: rgba(19, 93, 2, 0.444);
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+.sectionTitle {
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.Display {
+    margin-left: 50px;
+    margin-right: 50px;
+}

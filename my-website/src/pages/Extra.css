@@ -1,0 +1,25 @@
+.Extra {
+    background-color: rgba(88, 3, 3, 0.444);
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+.extraTitle{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    padding-bottom: 25px;
+}
+
+.extraList {
+    text-align: center;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.listItem {
+    padding-top: 10px;
+}

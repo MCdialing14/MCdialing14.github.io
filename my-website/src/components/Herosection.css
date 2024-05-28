@@ -1,7 +1,13 @@
 .hero-wrapper {
+    padding-top: 25px;
     text-align: center;
     background-color: black;
     padding-bottom: 25px;
+    background-image: url("https://media.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hero-p {
