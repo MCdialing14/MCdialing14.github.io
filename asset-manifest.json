@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MCdialing14.github.io/static/css/main.54ababdb.css",
+    "main.js": "/MCdialing14.github.io/static/js/main.a3cd35ad.js",
+    "static/js/453.195b869a.chunk.js": "/MCdialing14.github.io/static/js/453.195b869a.chunk.js",
+    "static/media/Maze.png": "/MCdialing14.github.io/static/media/Maze.9510adf5220e5e7b5b1f.png",
+    "static/media/googleCert.png": "/MCdialing14.github.io/static/media/googleCert.db0e028e9dbefa112c77.png",
+    "static/media/MCPro.png": "/MCdialing14.github.io/static/media/MCPro.f62bc1fefa78e5f63118.png",
+    "index.html": "/MCdialing14.github.io/index.html",
+    "main.54ababdb.css.map": "/MCdialing14.github.io/static/css/main.54ababdb.css.map",
+    "main.a3cd35ad.js.map": "/MCdialing14.github.io/static/js/main.a3cd35ad.js.map",
+    "453.195b869a.chunk.js.map": "/MCdialing14.github.io/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ababdb.css",
+    "static/js/main.a3cd35ad.js"
+  ]
+}
