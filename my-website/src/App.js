@@ -9,29 +9,31 @@ import Experience from'./pages/Experience';
 import Extra from './pages/Extra';
 
 function App() {
-  let component
-  switch (window.location.pathname) {
-    case "/":
-      component = <Home/>
-      break
-    case "/About":
-      component = <About/>
-      break
-    case "/Education":
-        component = <Education/>
-        break
-    case "/Experience":
-        component = <Experience/>
-        break
-    case "/Extra":
-      component = <Extra/>
-      break
-  }
   return (
     <>
+      <div id="home">
+        <Home></Home>
+      </div>
+      
       <Topbar></Topbar>
       <Herosection></Herosection>
-      {component}
+
+      <div id='about'>
+        <About></About>
+      </div>
+      
+      <div id="education">
+        <Education></Education>
+      </div>
+      
+      <div id="experience">
+        <Experience></Experience>
+      </div>
+      
+      <div id="extra">
+        <Extra></Extra>
+      </div>
+      
       <Footer></Footer>
     </>
   );
